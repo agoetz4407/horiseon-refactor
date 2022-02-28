@@ -109,10 +109,6 @@ header a {
     background-color: #2589bd;
 }
 
-.benefit-article p {
-    font-size: 16px;
-}
-
 .benefit-article {
     margin-bottom: 32px;
     color: #ffffff;
@@ -127,6 +123,10 @@ header a {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+.benefit-article p {
+    font-size: 16px;
 }
 
 /* footer style */
